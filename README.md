@@ -1,4 +1,4 @@
-# User_Add_bash_project_1
+# add-local-user.sh
 The goal of this Script is to create/adds users to the same Linux system as the script is executed on.
 
 Shell Script Requirements:
