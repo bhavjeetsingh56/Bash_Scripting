@@ -15,3 +15,5 @@ Creates a new user on the local system with the input provided by the user.
 Informs the user if the account was not able to be created for some reason.  If the account is not created, the script is to return an exit status of 1.
 
 Displays the username, password, and host where the account was created.  This way the help desk staff can copy the output of the script in order to easily deliver the information to the new account holder.
+
+#Disable-local-User.sh
